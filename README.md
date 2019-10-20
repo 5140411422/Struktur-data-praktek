@@ -1,2 +1,2 @@
-# 5140411422
-struktur data praktek
+# Tugas struktur data praktek
+5140411422
